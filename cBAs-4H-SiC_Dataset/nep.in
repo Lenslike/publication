@@ -1,0 +1,12 @@
+version  4
+type  4  B As Si C
+cutoff 6 5
+n_max 12 10
+basis_size 12 10
+lambda_e 1
+lambda_f 1
+lambda_v 0.1
+batch 5000
+neuron 50
+population 50
+generation 1000000
